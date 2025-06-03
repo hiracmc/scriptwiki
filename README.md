@@ -31,11 +31,7 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | loop{<br>__code__<br>} | ループ |
 | timer reset | タイマーをリセット |
 
-
-
-
-
-
+<br><br><br><br><br>
 呼び出すことのできる変数一覧
 | 呼び出し方 | なにか |
 |:-----------|:------------|
