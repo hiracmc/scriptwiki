@@ -43,6 +43,7 @@ Link : https://scratch.mit.edu/projects/1170052574/
 
 ### 簡単なプログラム例
 
+・動くテキスト
 `
 loop{|
 bgc(00ffff);|
@@ -51,4 +52,9 @@ v timer = &timer;|
 v b = &cos(&timer,300);|
 tx(text,50,@a,@b,000000)|
 }|
+`
+
+・すべての問いに答えるAI
+`
+
 `
