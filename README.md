@@ -36,8 +36,8 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | 呼び出し方 | なにか |
 |:-----------|:------------|
 | &timer | タイマーを取得 |
-| $sin(__num__) | sinを取得。$timerも使用できる。numが&timerの場合は、`$sin(__num__,__num__)`に構文が変化する。2個目のnumには、タイマーを何倍にするかを入力する |
-| $cos(__num__) | cosを取得。$timerも使用できる。numが&timerの場合は、`$cos(__num__,__num__)`に構文が変化する。2個目のnumには、タイマーを何倍にするかを入力する |
+| $sin(__num__) | sinを取得。$timerも使用できる。numが&timerの場合は、 $sin(__num__,__num__) に構文が変化する。2個目のnumには、タイマーを何倍にするかを入力する |
+| $cos(__num__) | cosを取得。$timerも使用できる。numが&timerの場合は、 $cos(__num__,__num__) に構文が変化する。2個目のnumには、タイマーを何倍にするかを入力する |
 | @__name__ | 自分で作った変数を取得 |
 
 
