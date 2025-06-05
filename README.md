@@ -40,7 +40,7 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | &sin(__num__) | sinを取得。$timerも使用できる。numが&timerの場合は、 $sin(__num__,__num__) に構文が変化する。2個目のnumには、タイマーを何倍にするかを入力する |
 | &cos(__num__) | cosを取得。$timerも使用できる。numが&timerの場合は、 $cos(__num__,__num__) に構文が変化する。2個目のnumには、タイマーを何倍にするかを入力する |
 | &rdn(__num__,__num__) | ランダムな数を生成する |
-| &clock(__name__)| 時間を取得 <br> second : s <br> minutes : m <br> hour : h <br> day : d <br> week : w <br> month : mo <br> year : y |
+| &clock(__name__)| 時間を取得 <br> Second : s <br> Minute : m <br> Hour : h <br> Day : d <br> Week : w <br> Month : mo <br> Year : y |
 | @__name__ | 自分で作った変数を取得 |
 
 
