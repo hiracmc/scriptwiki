@@ -30,7 +30,7 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | rep(__num__){<br>__code__<br>} | 繰り返し |
 | loop{<br>__code__<br>} | ループ |
 | timer reset | タイマーをリセット |
-| bx(__x__,__y__,__x2__,__y2__,__color__) | 四角形を表示します。 |
+| px(__x__,__y__,__x2__,__y2__,__color__) | 四角形を表示します。 |
 
 <br><br><br><br><br>
 ### 呼び出すことのできる変数一覧
