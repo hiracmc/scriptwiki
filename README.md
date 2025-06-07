@@ -31,7 +31,7 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | loop{<br>__code__<br>} | ループ |
 | timer reset | タイマーをリセット |
 | px(__x__,__y__,__x2__,__y2__,__枠の太さ__,__color__) | 四角形を表示する |
-| ask(text) | 質問をする。このコードを実行した時点で&answerは空になる |
+| ask(text) | 回答を要求する。このコードを実行した時点で&answerは空になる |
 
 <br><br><br><br><br>
 ### 呼び出すことのできる変数一覧
@@ -42,7 +42,8 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | &cos(__num__) | cosを取得。$timerも使用できる。numが&timerの場合は、 $cos(__num__,__num__) に構文が変化する。2個目のnumには、タイマーを何倍にするかを入力する |
 | &rdn(__num__,__num__) | ランダムな数を生成する |
 | &clock(__name__)| 時間を取得 <br> Second : s <br> Minute : m <br> Hour : h <br> Day : d <br> Week : w <br> Month : mo <br> Year : y |
-| &answer | askの回答を取得 |
+| &answer | 回答を取得 |
+| &length(@text) | 長さを取得 |
 | @__name__ | 自分で作った変数を取得 |
 
 
