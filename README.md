@@ -3,10 +3,10 @@
 Link : https://scratch.mit.edu/projects/1170052574/
 <br><br><br><br><br>
 ## クイックリンク
-* [構文](https://github.com/hiracmc/scriptwiki/edit/main/README.md#code)
-* [デフォルトの変数一覧](https://github.com/hiracmc/scriptwiki/edit/main/README.md#%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%99%E3%81%93%E3%81%A8%E3%81%AE%E3%81%A7%E3%81%8D%E3%82%8B%E5%A4%89%E6%95%B0%E4%B8%80%E8%A6%A7)
-* [条件一覧](https://github.com/hiracmc/scriptwiki/edit/main/README.md#%E6%9D%A1%E4%BB%B6%E4%B8%80%E8%A6%A7)
-* [サンプルコード](https://github.com/hiracmc/scriptwiki/edit/main/README.md#%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89)
+* [構文](https://github.com/hiracmc/scriptwiki/blob/main/README.md#code)
+* [デフォルトの変数一覧](https://github.com/hiracmc/scriptwiki/blob/main/README.md#%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%99%E3%81%93%E3%81%A8%E3%81%AE%E3%81%A7%E3%81%8D%E3%82%8B%E5%A4%89%E6%95%B0%E4%B8%80%E8%A6%A7)
+* [条件一覧](https://github.com/hiracmc/scriptwiki/blob/main/README.md#%E6%9D%A1%E4%BB%B6%E4%B8%80%E8%A6%A7)
+* [サンプルコード](https://github.com/hiracmc/scriptwiki/blob/main/README.md#%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89)
 <br><br><br><br><br>
 ## code
 
