@@ -32,6 +32,7 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | timer reset | タイマーをリセット |
 | px(__x__,__y__,__x2__,__y2__,__枠の太さ__,__color__) | 四角形を表示する |
 | ask(text) | 回答を要求する。このコードを実行した時点で&answerは空になる |
+| if(!){<br>#code<br>}| ()内の条件を満たした場合のみ実行する<br>条件一覧は下へ |
 
 <br><br><br><br><br>
 ### 呼び出すことのできる変数一覧
