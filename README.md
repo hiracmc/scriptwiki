@@ -50,7 +50,7 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | &rdn(__num__,__num__) | ランダムな数を生成する |
 | &clock(__name__)| 時間を取得 <br> Second : s <br> Minute : m <br> Hour : h <br> Day : d <br> Week : w <br> Month : mo <br> Year : y |
 | &answer | 回答を取得 |
-| &length(@text) | 長さを取得 |
+| &length(__text__) | 長さを取得 |
 | @__name__ | 自分で作った変数を取得 |
 
 
