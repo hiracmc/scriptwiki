@@ -1,5 +1,6 @@
 # Script Wiki
 
+
 Link : https://scratch.mit.edu/projects/1170052574/
 <br><br><br><br><br>
 ## クイックリンク
@@ -78,3 +79,8 @@ loop{|bgc(00ffff);|v a = &sin(&timer,300);|v b = &cos(&timer,300);|tx(text,50,@a
 `
 
 `
+
+
+<br><br>
+<iframe src="https://scratch.mit.edu/projects/1107927078/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
