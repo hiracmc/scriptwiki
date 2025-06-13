@@ -75,9 +75,4 @@ Link : https://scratch.mit.edu/projects/1170052574/
 loop{|bgc(00ffff);|v a = &sin(&timer,300);|v b = &cos(&timer,300);|tx(text,50,@a,@b,000000)|}|
 `
 
-・すべての問いに答えるAI
-`
-
-`
-
 
