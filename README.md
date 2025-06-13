@@ -39,7 +39,7 @@ Link : https://scratch.mit.edu/projects/1170052574/
 | timer reset | タイマーをリセット |
 | px(__x__,__y__,__x2__,__y2__,__枠の太さ__,__color__) | 四角形を表示する |
 | ask(__text__) | 回答を要求する。このコードを実行した時点で&answerは空になる |
-| if(){<br>__code__<br>}| ()内の条件を満たした場合のみ実行する<br>条件一覧は[下](https://github.com/hiracmc/scriptwiki/blob/main/README.md#%E6%9D%A1%E4%BB%B6%E4%B8%80%E8%A6%A7)へ |
+| if(){<br>__code__<br>}| ⚠️作成中。動作しません⚠️<br>()内の条件を満たした場合のみ実行する<br>条件一覧は[下](https://github.com/hiracmc/scriptwiki/blob/main/README.md#%E6%9D%A1%E4%BB%B6%E4%B8%80%E8%A6%A7)へ |
 
 <br><br><br><br><br>
 ### 呼び出すことのできる変数一覧
